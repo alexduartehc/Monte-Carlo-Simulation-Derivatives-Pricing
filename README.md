@@ -7,10 +7,14 @@ This project focuses on applying Monte Carlo simulations to European-style optio
 
 ------
 
-Monte Carlo Methods for Option Pricing/
+Monte Carlo Methods for Option Pricing
+
 │
+
 ├── Monte Carlo Simulations for Option Pricing.ipynb   # Main Jupyter Notebook
+
 ├── README.md                                          # Project documentation
+
 └── LICENSE                           
 
 ------
