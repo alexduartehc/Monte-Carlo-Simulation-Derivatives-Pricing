@@ -15,6 +15,8 @@ Monte Carlo Methods for Option Pricing
 
 ├── README.md                                          # Project documentation
 
+├── Data 
+
 └── LICENSE                           
 
 ------
