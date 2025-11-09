@@ -5,9 +5,13 @@ This repository contains a Jupyter Notebook implementation of Monte Carlo simula
 Monte Carlo methods are widely used in quantitative finance for modeling uncertain processes and estimating complex financial quantities.
 This project focuses on applying Monte Carlo simulations to European-style option pricing, showing how repeated random sampling can approximate expected payoffs under different market scenarios.
 
+------
+
 Monte Carlo Methods for Option Pricing/
 │
 ├── Monte Carlo Simulations for Option Pricing.ipynb   # Main Jupyter Notebook
 ├── README.md                                          # Project documentation
 └── LICENSE                           
+
+------
 
