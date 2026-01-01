@@ -6,18 +6,13 @@ Monte Carlo methods are widely used in quantitative finance for modeling uncerta
 This project focuses on applying Monte Carlo simulations to European-style option pricing, showing how repeated random sampling can approximate expected payoffs under different market scenarios.
 
 ------
-
+```text
 Monte Carlo Methods for Option Pricing
-
 │
-
 ├── Monte Carlo Simulations for Option Pricing.ipynb   # Main Jupyter Notebook
-
 ├── README.md                                          # Project documentation
-
 ├── Data 
-
 └── LICENSE                           
-
+```
 ------
 
